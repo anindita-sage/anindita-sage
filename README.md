@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is;Anindita+Bandyopadhyay;Nice+to+meet+you!&center=true&size=30">
@@ -6,9 +5,9 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://linkedin.com/in/linkedin.com/in/ankit-singh-12b819239/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://twitter.com/undisputed_boom" title="X Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg">X or Twitter</a></code>
-  <code><a href="https://instagram.com/the_tribal_god/" title="Instagram Profile"><img width="22" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg"> Instagram</a></code>
+  <code><a href="linkedin.com/in/anindita-bandyopadhyay-5b7b52293/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://instagram.com/anindita_sage/" title="Instagram Profile"><img width="22" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg"> Instagram</a></code>
+  <code><a href="https://instagram.com/palette_pulse_/" title="Art Account"><img width="22" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg"> Art Account </a></code>
 </h5>
 <br>
 <p align="center">
