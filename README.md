@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Anindita+Bandyopadhyay....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is;Anindita+Bandyopadhyay;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -14,10 +14,9 @@
 <p align="center">
   Hi,I am Anindita Bandyopadhyay , a passionate Frontend Web Developer from India
   <br>
-  <br>
   🔬 I'm currently studying Engineering in Kolkata , Department of Electronics and Communication Engineering 🎓
   <br>
-  💻 I am an artist who loves the canvas of web developnment
+  💻 I am an artist who loves the canvas of Web Wevelopnment
   <br>
   📚 I’m currently working on a Full Stack Social Media Platform and working on AIML Integration
   <br>
